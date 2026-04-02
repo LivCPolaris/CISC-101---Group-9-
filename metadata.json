@@ -1,0 +1,5 @@
+{
+  "name": "Harper",
+  "description": "An AI-powered mental health companion providing guided assessments and therapist matching in a calm, private environment.",
+  "requestFramePermissions": ["notifications"]
+}
